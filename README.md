@@ -49,12 +49,6 @@ Risk Levels:
 
 ---
 
-## Conclusion
-Small businesses face real cybersecurity risks due to limited controls.  
-Simple improvements such as MFA, strong passwords, and awareness can significantly reduce risk.
-
----
-
 ## Risk Treatment Plan
 
 The following actions are recommended to reduce identified risks:
@@ -67,6 +61,12 @@ The following actions are recommended to reduce identified risks:
 - Cloud Storage → Enable version history and backup awareness
 - Admin Credentials → Avoid storing passwords in browser
 - WiFi Network → Strengthen password and restrict access
+
+## Conclusion
+Small businesses face real cybersecurity risks due to limited controls.  
+Simple improvements such as MFA, strong passwords, and awareness can significantly reduce risk.
+
+---
 
 ## Note
 This is a simulated GRC project created for portfolio purposes using a realistic small business scenario.
