@@ -55,5 +55,18 @@ Simple improvements such as MFA, strong passwords, and awareness can significant
 
 ---
 
+## Risk Treatment Plan
+
+The following actions are recommended to reduce identified risks:
+
+- Customer Data → Restrict sharing permissions and remove public links
+- Facebook Page → Enable multi-factor authentication (MFA)
+- Shopee Account → Use unique password and enable login alerts
+- Email Accounts → Provide phishing awareness guidance
+- Company Laptops → Install antivirus software
+- Cloud Storage → Enable version history and backup awareness
+- Admin Credentials → Avoid storing passwords in browser
+- WiFi Network → Strengthen password and restrict access
+
 ## Note
 This is a simulated GRC project created for portfolio purposes using a realistic small business scenario.
